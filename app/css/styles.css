@@ -1,0 +1,25 @@
+body {
+  background-color: #000;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.dapdog {
+  margin-top: 50px;
+}
+.stage {
+  border: 4px solid white;
+  padding: 5px 0;
+}
+.stage rect {
+  fill: #FF0099;
+}
+h1 {
+  font-family: Input;
+  font-size: 48px;
+  flex: 1;
+  color: #FFFFFF;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "dapperdog",
+  "version": "0.1.0",
+  "description": "Dapper Dog's Data Driven Document Demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbitely/DapperDog.git"
+  },
+  "author": "Justin Bitely",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbitely/DapperDog/issues"
+  },
+  "homepage": "https://github.com/jbitely/DapperDog#readme",
+  "dependencies": {
+  }
+}
